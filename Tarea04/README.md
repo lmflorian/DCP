@@ -1,0 +1,35 @@
+### Tarea 04 - Preparación para parcial
+
+Crear cuenta en https://www.hackerrank.com/, resolver los ejercicios listados y entregar a través del GES un documento(pdf, word,o similar) que contenga su usuario de hackerrank y por cada ejercicio el link del ejercicio y el screenshot de la pestaña "submissions" del mismo:
+
+1) https://www.hackerrank.com/challenges/py-if-else/problem
+
+2) https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+
+3) https://www.hackerrank.com/challenges/python-division/problem
+
+4) https://www.hackerrank.com/challenges/python-loops/problem
+
+5) https://www.hackerrank.com/challenges/write-a-function/problem
+
+6) https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+
+7) https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
+8) https://www.hackerrank.com/challenges/python-lists/problem
+
+9) https://www.hackerrank.com/challenges/python-tuples/problem
+
+10) https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
+
+11) https://www.hackerrank.com/challenges/collections-counter/problem
+
+12) https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+
+13) https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem
+
+14) https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
+
+15) https://www.hackerrank.com/challenges/np-arrays/problem
+
+16) https://www.hackerrank.com/challenges/np-zeros-and-ones/problem 
