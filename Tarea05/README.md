@@ -1,4 +1,4 @@
-### Tarea 04 - Preparación para parcial
+### Tarea 05 - Vectores y Numpy
 
 Resolver ejecicios descritos en clase del notebook Clase_06_Numpy y linalg_.ipynb:
 
